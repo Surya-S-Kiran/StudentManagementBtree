@@ -85,7 +85,7 @@ The project's benefits included efficient student record management, reduced man
 implementing B-tree operations required careful consideration, and the project might have limitations in handling extremely large datasets.
 
 
-Real-Life Problem Solving::
+Real-Life Problem Solving:
 The project directly addressed the time-consuming process of managing student records in educational institutions. 
 It automated data entry, retrieval, modification, and deletion, offering a streamlined solution for administrators and educators.
 
