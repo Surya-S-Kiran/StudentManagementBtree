@@ -5,7 +5,7 @@ I was entrusted with the development of a  student record management system that
  a secure login mechanism and efficient data retrieval for academic institutions. The project's pivotal
   focus was to enable users to search, add, modify, and delete student records in a less time complexity while maintaining the 
   structural integrity of the data.
-Task::
+Task:
 
 Since my primary objective of this project was to reduce the time complexity require for mojor database operations, So i 
 have choosen BTree for this purpose.
