@@ -14,7 +14,7 @@ user-friendly interface for interacting with student records, ensuring proper da
  B-tree structure, and enabling seamless operations like search, addition, modification, and deletion 
  of student records.
 
-Action:
+Action:::
 Coming on what type of actons i had taken:
 i will discuss it as a module , so there is basically 7 module i had worked upon.
 that are User Authentication Module,Main Menu Module, B-tree Implementation Module, Search Record Module, Add Student Record Module,
